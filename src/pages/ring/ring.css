@@ -1,0 +1,21 @@
+.text {
+  color: rgb(153, 114, 28);
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 230px;
+  height: 170px;
+  border-radius: 4%;
+  padding: 15px;
+  background-color: rgb(252, 252, 252);
+  border: 2px solid rgb(228, 189, 106);
+}
+.text:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#button {
+  position: relative;
+  margin-top: 20.5rem;
+  margin-left: 8rem;
+  z-index: 1;
+}

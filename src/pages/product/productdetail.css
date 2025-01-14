@@ -1,0 +1,109 @@
+.all{
+  margin: 40px;
+  display: grid;
+}
+.squre-container {
+  width: 32rem;
+  height: 31rem;
+  background-color: rgb(208, 170, 100);
+  position: absolute;
+  border-radius: 30px;
+  margin-top: 50px;
+  margin-left: 25rem;
+  transition: 0.3s;
+}
+.img-container {
+  border-radius: 100px 100px 0 0;
+  border: 3px solid rgb(185, 157, 108);
+  transition: 0.3s;
+  z-index: 1;
+  position: relative;
+  width: 300px;
+  height: 350px;
+  margin-left: 70px;
+}
+.img-container:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text-container {
+  color: rgb(153, 114, 28);
+  display: grid;
+  text-align: start;
+  position: relative;
+  transition: 0.3s;
+  z-index: 1;
+  width: 420px;
+  height: 350px;
+  border-radius: 4%;
+  padding: 30px;
+  background-color: rgb(247, 247, 247);
+  border: 3px solid rgb(202, 175, 115);
+  margin-left: 250px;
+  margin-top: 100px;
+}
+.text-container:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button-container {
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  font-size: 20px;
+  margin-left: 15rem;
+  margin-top: 0.5rem;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.button-click {
+  border: 3px solid rgb(211, 164, 64);
+  background-color: rgb(247, 247, 247);
+  color: #d49f3a;
+  border-radius: 15px;
+  padding: 10px 20px;
+}
+.button-click:hover {
+  background-color: #dda439;
+  color: #ffffff;
+  border: 3px solid rgb(255, 255, 255);
+}
+.page-not-find{
+  height: 220px;
+  margin-top: 10rem;
+  color: #af7f27;
+}
+@media (max-width: 768px) { 
+  .all{ 
+    margin: 50px 0; 
+  } 
+  .squre-container { 
+    width: 22rem; 
+    height: 28rem; 
+    margin-top: 5rem; 
+    margin-left: -19.5rem; 
+    position: relative;
+  } 
+  .img-container { 
+    width: 50%; 
+    height: auto; 
+    margin-left: 8.5rem;
+    justify-content: center;
+    position: absolute;
+    z-index: 1;
+  } 
+  .text-container { 
+    width: 50%; 
+    height: auto; 
+    margin-top: 17rem;
+    margin-left: 8.5rem;
+   position:relative;
+   justify-content: center;
+   z-index: 1;
+   } 
+   .button-container { 
+    font-size: 18px; 
+    margin-left: 0; 
+    color: #d49f3a;
+    z-index: 1;
+    margin-top: 10px;
+  } 
+}

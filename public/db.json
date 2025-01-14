@@ -1,0 +1,250 @@
+{
+  "bracelet": [
+    {
+      "id": 1,
+      "name": "Bracelet1",
+      "image": "bracelet 1.png",
+      "price": 10,
+      "material": "material",
+      "img": "bracelet 1 (1).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 2,
+      "image": "bracelet 2.png",
+      "name": "Bracelet2",
+      "price": 22,
+      "material": "material",
+      "img": "bracelet 2 (2).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."   
+    },
+    {
+      "id": 3,
+      "image": "bracelet 3.png",
+      "name": "Bracelet3",
+      "price": 20,
+      "material": "material",
+      "img": "bracelet 3 (3).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."     
+    },
+    {
+      "id": 4,
+      "image": "bracelet 4.png",
+      "name": "Bracelet4",
+      "price": 23,
+      "material": "material",
+      "img": "bracelet 4 (4).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 5,
+      "image": "bracelet 5.png",
+      "name": "Bracelet5",
+      "price": 29,
+      "material": "material",
+      "img": "bracelet 5 (5).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 6,
+      "image": "bracelet 6.png",
+      "name": "Bracelet6",
+      "price": 20,
+      "material": "material",
+      "img": "bracelet 6 (6).png",
+      "category" : "bracelet",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+  ],
+  "earring": [
+    {
+      "id": 7,
+      "name": "Earring1",
+      "image": "earring1.png",
+      "price": 35,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 8,
+      "name": "Earring2",
+      "image": "earring2.png",
+      "price": 30,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 9,
+      "name": "Earring3",
+      "image": "earring3.png",
+      "price": 30,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 10,
+      "name": "Earring4",
+      "image": "earring4.png",
+      "price": 39,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 11,
+      "name": "Earring5",
+      "image": "earring5.png",
+      "price": 30,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 12,
+      "name": "Earring6",
+      "image": "earring6.png",
+      "price": 30,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 13,
+      "name": "Earring7",
+      "image": "earring7.png",
+      "price": 33,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."     
+    },
+    {
+      "id": 14,
+      "name": "Earring8",
+      "image": "earring8.png",
+      "price": 35,
+      "material": "material",
+      "category" : "earring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+  ],
+  "necklace": [
+    {
+      "id": 15,
+      "image": "necklace 1.png",
+      "name": "Necklace1",
+      "price": 77,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 16,
+      "image": "necklace 2.png",
+      "name": "Necklace2",
+      "price": 78,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 17,
+      "image": "necklace 3.png",
+      "name": "Necklace3",
+      "price": 73,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 18,
+      "image": "necklace 4.png",
+      "name": "Necklace4",
+      "price": 78,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 19,
+      "image": "necklace 5.png",
+      "name": "Necklace5",
+      "price": 78,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+      "id": 20,
+      "image": "necklace 6.png",
+      "name": "Necklace6",
+      "price": 73,
+      "material": "material",
+      "category" : "necklace",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    }
+  ],
+  "ring": [
+    {
+      "id": 21,
+      "name": "Ring1",
+      "image": "ring 1.png",
+      "price": 32,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   },
+    {
+      "id": 22,
+      "name": "Ring2",
+      "image": "ring 2.png",
+      "price": 32,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   },
+    {
+      "id": 23,
+      "name": "Ring3",
+      "image": "ring 3.png",
+      "price": 34,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   },
+    {
+      "id": 24,
+      "name": "Ring4",
+      "image": "ring 4.png",
+      "price": 30,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   },
+    {
+      "id": 25,
+      "name": "Ring5",
+      "image": "ring 5.png",
+      "price": 32,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   },
+    {
+      "id": 26,
+      "name": "Ring6",
+      "image": "ring 6.png",
+      "price": 31,
+      "material": "material",
+      "category" : "ring",
+      "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+   }
+  ]
+}

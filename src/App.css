@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.header {
+  margin-top: 20px;
+  color: rgb(153, 114, 28);
+}
+.button {
+  border: 1px solid #d49f3a;
+  background-color: white;
+  color: #d49f3a;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+.button:hover {
+  background-color: #d49f3a;
+  color: white;
+}
+.star {
+  color: #d49f3a;
+}
+

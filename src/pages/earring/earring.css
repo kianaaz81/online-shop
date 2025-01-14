@@ -1,0 +1,30 @@
+.hd-row {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: rgb(208, 170, 100);
+  position: absolute;
+}
+.txt-column {
+  color: rgb(153, 114, 28);
+  padding: 15px;
+  text-align: center;
+  position: relative;
+}
+#link{
+ text-decoration: none;
+}
+.column {
+  position: relative;
+  padding: 20px;
+}
+.img {
+  border-radius: 4%;
+  width: 250px;
+  transition: 0.3s;
+  z-index: 1;
+  position: relative;
+}
+.img:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
