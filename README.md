@@ -13,7 +13,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+<p float="left">
+  <img src="./images/home page.png" alt="home" width="300px"/>
+  <img src="./images/category.png" alt="category" width="300px"/>
+  <img src="./images/login form.png" alt="login" width="300px"/>
+  <img src="./images/bracelet page.png" alt="bracelet" width="300px"/>
+  <img src="./images/earring page.png" alt="earring" width="300px"/>
+  <img src="./images/neckless page.png" alt="neckless" width="300px"/>
+  <img src="./images/ring page.png" alt="ring" width="300px"/>
+  <img src="./images/product page.png" alt="product" width="300px"/>
+  <img src="./images/cart page.png" alt="cart" width="300px"/>
+</p>
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
