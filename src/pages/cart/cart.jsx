@@ -29,7 +29,11 @@ const Cart = () => {
       <div className="main">
         {cart.map((item) => ( 
           <div key={item.id}>
+            {item.category && item.image ? (
             <img src={ require(`../../assets/${item.category}/${item.image}`)} alt={item.name} className="img" />
+            ):(
+              <p>Image not available</p>  
+            )} 
             <div className="txt-column">
               <h3>Name: {item.name}</h3>
               <h4>Price: {item.price} $</h4>
